@@ -1,4 +1,5 @@
 
+
 # Welcome to our GitHub classroom!
 
 Edit this file by clicking the 'pen' symbol to the right.
@@ -17,3 +18,5 @@ Penguin
 Now click the green 'commit changes' button at the bottom.
 
 [redhatfiles.zip](https://github.com/yrdsb-peths/first-github-assignment-LeoX88886/files/8232975/redhatfiles.zip)
+
+![sad](https://user-images.githubusercontent.com/101126520/157892190-21cf824a-cf2c-4612-ad29-07bd5d25f54d.jpg)
