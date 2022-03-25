@@ -8,11 +8,10 @@ Then answer in the space below each question:
 1. First name
 Leo
 
-2. Last name
-Xu
+
 
 3. Favourite animal
-Penguin
+Not Penguin
 
 
 Now click the green 'commit changes' button at the bottom.
